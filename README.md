@@ -16,5 +16,4 @@ I'm Aheli! I'm an aspiring technologist from India 🇮🇳 who is passionate ab
 - 📫 How to reach me: ahelighosh_bt2k17@dtu.ac.in
 - ⚡ Fun fact: I'm a passionate singer, artist and foodie!
 
-![Aheli's github stats](https://github-readme-stats.vercel.app/api?username=Ahelii16&show_icons=true&hide_border=true)
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Ahelii16.Ahelii16)
