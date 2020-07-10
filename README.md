@@ -1,5 +1,12 @@
+<p align='center'>
+<a href="https://twitter.com/aheli_g"><img height="25" src="https://github.com/WaylonWalker/WaylonWalker/blob/master/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/aheli__g"><img height="25" src="https://github.com/WaylonWalker/WaylonWalker/blob/master/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/aheli-ghosh/"><img height="25" src="https://github.com/WaylonWalker/WaylonWalker/blob/master/icon/linkedin.png?raw=true"></a>
+</p>
+
 ### Hi there 👋
 
+I am Aheli, an aspiring software engineer from India 🇮🇳. I have a passion for learning and building useful projects. 
 <!--
 **Ahelii16/Ahelii16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +18,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
