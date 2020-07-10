@@ -6,17 +6,12 @@
 
 ### Hi there 👋
 
-I am Aheli, an aspiring software engineer from India 🇮🇳. I have a passion for learning and building useful projects. 
-<!--
-**Ahelii16/Ahelii16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Aheli, an aspiring technologist from India 🇮🇳. I worked with CitiBank,Pune as a technology analyst intern and solved a business problem with Data Science. 
 
-Here are some ideas to get you started:
+✨ I have experience working with a range of different languages and frameworks and I am always looking for opportunities to learn and work on something new. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Some of my key skills include:  C++, Python, C, Machine Learning, Deep Learning, Data Science and Android Development with Java
+- 🌱
+- ⚡ Fun fact: I'm a passionate singer, artist and foodie!
+- 💬 Ask me about anything and everything!
+- 📫 How to reach me: ahelighosh_bt2k17@dtu.ac.in
