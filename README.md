@@ -1,6 +1,6 @@
 ### Hi there 👋 👩‍💻
 
-I'm Aheli! I'm an aspiring technologist from India 🇮🇳 who is passionate about creating software to elevate people and building community. I have worked with CitiBank,Pune as a technology analyst intern and solved a business problem with Data Science. 
+I'm Aheli! I'm an aspiring technologist from India 🇮🇳 who is passionate about creating software to elevate people and build community. I have worked with CitiBank,Pune as a technology analyst intern and solved a business problem with Data Science. 
 
 ✨ I have experience working with a range of different languages and frameworks and I am always looking for opportunities to learn and work on something new. 
 
