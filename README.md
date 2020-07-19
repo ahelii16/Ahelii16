@@ -12,8 +12,10 @@ I'm Aheli! I'm an aspiring technologist from India 🇮🇳 who is passionate ab
 - 📫 How to reach me: ahelighosh_bt2k17@dtu.ac.in
 - ⚡ Fun fact: I'm a passionate singer, artist and foodie!
 
-<p align='center'>
-<a href="https://twitter.com/aheli_g"><img height="25" src="https://github.com/WaylonWalker/WaylonWalker/blob/master/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/aheli__g"><img height="25" src="https://github.com/WaylonWalker/WaylonWalker/blob/master/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/aheli-ghosh/"><img height="25" src="https://github.com/WaylonWalker/WaylonWalker/blob/master/icon/linkedin.png?raw=true"></a>
+<p align='center'>  
+  <a href="https://www.linkedin.com/in/aheli-ghosh" rel="nofollow noreferrer">
+    <img height="25" src="https://i.stack.imgur.com/gVE0j.png" alt="LinkedIn"> LinkedIn
+  </a>
 </p>
+
+
