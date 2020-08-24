@@ -4,12 +4,12 @@ I'm Aheli! I'm an aspiring technologist from India 🇮🇳 who is passionate ab
 
 ✨ I have experience working with a range of different languages and frameworks and I am always looking for opportunities to learn and work on something new. 
 
-- 🔭 Some of my key skills:  C++, Python, C, Machine Learning, Deep Learning, Data Science & Android Development with Java
+- 🔭 Some of my key skills:  C++, Python, C, Machine Learning, Deep Learning, Data Science & Android Development
 - 🌱 Learning more about Open Source and Deep Learning
 - 💬 Ask me about anything and everything!
 - 👯 I’m looking to collaborate on promising software projects with passionate developers.
 - 💼 Available for freelance projects, Internship/Fulltime opportunities.
-- 📫 How to reach me: ahelighosh_bt2k17@dtu.ac.in
+- 📫 How to reach me: ahelighosh4@gmail.com
 - ⚡ Fun fact: I'm a passionate singer, artist and foodie!
 
 <p align='center'>  
