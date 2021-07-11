@@ -3,8 +3,6 @@
 I'm Aheli, a software engineer from India! I am passionate about creating software to elevate people and build the community. 
 
 - 🔭 My skills:  C++, Python, Web Development (MERN), Machine Learning and Data Science.
-- 🌱 Learning more about Open Source and Software Engineering
-- 📫 How to reach me: ahelighosh4@gmail.com
 
 <p align='center'>  
   Let's connect on LinkedIn:
