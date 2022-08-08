@@ -1,6 +1,6 @@
 ### Hi there 👋 👩‍💻
 
-I'm Aheli, a software engineer from India! I am passionate about creating software to elevate people and build the community. 
+I'm Aheli! I am passionate about creating software to elevate people and build the community. 
 
 - 🔭 My skills:  C++, Python, Web Development (MERN), Machine Learning and Data Science.
 
