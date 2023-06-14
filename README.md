@@ -2,7 +2,7 @@
 
 I'm Aheli! I am passionate about creating software to elevate people and build the community. 
 
-- 🔭 My skills:  C++, Python, Web Development (MERN), Machine Learning and Data Science.
+- 🔭 My skills:  C++, Python, Web Development (MERN), Machine Learning, Deep Learning and Data Science.
 
 <p align='center'>  
   Let's connect on LinkedIn:
